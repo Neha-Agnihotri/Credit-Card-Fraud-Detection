@@ -1,1 +1,3 @@
 # Credit-Card-Fraud-Detection
+
+It becomes important to analyze credit card fraud as new data emerges. Understanding such trends using existing machine learning algorithms and models can aid in the creation of Automated Credit Card Fraud Detection Systems. The primary objective of this project is to utilize supervised machine learning-based techniques such as Gaussian Naive Bayes Algorithm, Random Forest and Logistic Regression, and to detect 100% of fraudulent transactions while minimizing the incorrect fraud classifications and to provide a comparative study for performance analysis of the algorithms
